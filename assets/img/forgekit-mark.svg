@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">AppZut</title>
+  <defs>
+    <linearGradient id="forge" x1="8" y1="4" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8c9cff"/>
+      <stop offset=".55" stop-color="#6377f5"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#forge)" d="M13 4h38a9 9 0 0 1 9 9v32a9 9 0 0 1-9 9H30L14 61v-7h-1a9 9 0 0 1-9-9V13a9 9 0 0 1 9-9Z"/>
+  <path fill="#fff" d="M20 17h25v8H29v6h13v8H29v12h-9V17Z"/>
+  <path fill="#c8f169" d="m47 9 1.8 4.2L53 15l-4.2 1.8L47 21l-1.8-4.2L41 15l4.2-1.8L47 9Z"/>
+</svg>

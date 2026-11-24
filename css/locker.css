@@ -1,0 +1,271 @@
+/* AppZut Modern Content Locker - Dark Aesthetic */
+.appzut-modal-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(8, 13, 23, 0.88);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  z-index: 999999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  animation: azFadeIn 0.22s ease-out;
+}
+
+@keyframes azFadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes azSlideUp {
+  from { opacity: 0; transform: translateY(18px) scale(0.97); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+.appzut-modal-card {
+  background: #0d1422;
+  border-radius: 22px;
+  box-shadow: 0 28px 80px rgba(0, 0, 0, 0.55);
+  max-width: 480px;
+  width: 100%;
+  max-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  animation: azSlideUp 0.28s cubic-bezier(0.16, 1, 0.3, 1);
+  font-family: 'Manrope', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  border: 1px solid #263147;
+  color: #f4f7ff;
+}
+
+.appzut-modal-header {
+  padding: 22px 20px 16px 20px;
+  text-align: center;
+  background: #111a2c;
+  border-bottom: 1px solid #263147;
+  position: relative;
+}
+
+.appzut-modal-close {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.05);
+  color: #8d99af;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.appzut-modal-close:hover {
+  background: rgba(255, 255, 255, 0.15);
+  color: #ffffff;
+}
+
+.appzut-badge-lock {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(200, 241, 105, 0.1);
+  color: #c8f169;
+  font-size: 0.68rem;
+  font-weight: 800;
+  padding: 5px 12px;
+  border-radius: 9999px;
+  margin-bottom: 10px;
+  border: 1px solid rgba(200, 241, 105, 0.25);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.appzut-modal-title {
+  font-family: 'Outfit', sans-serif;
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: #f4f7ff;
+  margin: 0 0 6px 0;
+  line-height: 1.25;
+  letter-spacing: -0.03em;
+}
+
+.appzut-modal-subtitle {
+  color: #8d99af;
+  font-size: 0.78rem;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.appzut-modal-body {
+  padding: 18px 20px;
+  overflow-y: auto;
+  flex: 1;
+}
+
+.appzut-step-indicator {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #121b2b;
+  border: 1px solid #263147;
+  border-radius: 12px;
+  padding: 9px 14px;
+  margin-bottom: 14px;
+  font-size: 0.72rem;
+  color: #8d99af;
+}
+
+.appzut-step-indicator b {
+  color: #c8f169;
+}
+
+.appzut-offers-list {
+  display: grid;
+  gap: 10px;
+}
+
+.appzut-offer-item {
+  display: grid;
+  grid-template-columns: 50px 1fr auto;
+  gap: 12px;
+  align-items: center;
+  padding: 10px 12px;
+  background: rgba(18, 27, 43, 0.82);
+  border: 1px solid #263147;
+  border-radius: 14px;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.15s ease, border-color 0.15s ease, background 0.15s ease;
+}
+
+.appzut-offer-item:hover {
+  transform: translateY(-2px);
+  border-color: #44516b;
+  background: #182338;
+}
+
+.appzut-offer-icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 12px;
+  object-fit: cover;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  background: #080d17;
+}
+
+.appzut-offer-info {
+  min-width: 0;
+}
+
+.appzut-offer-name {
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.84rem;
+  font-weight: 700;
+  color: #f4f7ff;
+  margin: 0 0 3px 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.appzut-offer-desc {
+  font-size: 0.68rem;
+  color: #8d99af;
+  margin: 0;
+  line-height: 1.35;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.appzut-offer-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 14px;
+  background: #6f83ff;
+  color: #ffffff;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+  transition: background 0.15s ease;
+}
+
+.appzut-offer-item:hover .appzut-offer-btn {
+  background: #8192ff;
+}
+
+.appzut-loading-offers {
+  text-align: center;
+  padding: 30px 10px;
+  color: #8d99af;
+  font-size: 0.8rem;
+}
+
+.appzut-spinner {
+  width: 32px;
+  height: 32px;
+  margin: 0 auto 12px auto;
+  border: 3px solid rgba(111, 131, 255, 0.2);
+  border-top-color: #6f83ff;
+  border-radius: 50%;
+  animation: azSpin 0.75s linear infinite;
+}
+
+@keyframes azSpin {
+  to { transform: rotate(360deg); }
+}
+
+.appzut-modal-footer {
+  padding: 14px 20px 18px 20px;
+  background: #0d1422;
+  border-top: 1px solid #263147;
+  text-align: center;
+}
+
+.appzut-check-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+  padding: 13px;
+  border: none;
+  border-radius: 14px;
+  background: #6f83ff;
+  color: #ffffff;
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 800;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.appzut-check-btn:hover {
+  background: #8192ff;
+  transform: translateY(-1px);
+}
+
+.appzut-check-btn:disabled {
+  opacity: 0.65;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.appzut-footer-note {
+  font-size: 0.65rem;
+  color: #6e7a94;
+  margin: 10px 0 0 0;
+}

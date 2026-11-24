@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script>
+    window.location.replace("search.html" + window.location.search);
+  </script>
+</head>
+<body></body>
+</html>

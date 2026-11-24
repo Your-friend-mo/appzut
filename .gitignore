@@ -1,0 +1,12 @@
+# Python scripts & tooling
+*.py
+__pycache__/
+*.log
+
+# Sensitive credentials & tokens
+tokens_map.json
+*token*
+
+# OS files
+.DS_Store
+Thumbs.db

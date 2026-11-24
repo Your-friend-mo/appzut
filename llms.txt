@@ -1,0 +1,14 @@
+# AppZut
+
+> AppZut is a premier cross-platform mobile application library and guide portal providing verified mods, emulator packages, utilities, and tweaked releases for iOS and Android devices.
+
+## Core Navigation & Discovery
+- [AppZut Home](https://appzut.com/): Official mobile library, search engine, and app directory.
+- [AppZut.com](https://appzut.com/appzut-dot-com.html): Curated verified applications catalog.
+- [AppZut Com](https://appzut.com/appzut-com.html): High-performance mobile tools and games repository.
+- [AppZut. com](https://appzut.com/appzut-dot-space.html): Independent mobile software index.
+- [Full XML Sitemap](https://appzut.com/sitemap.xml): Complete URL index of all pages and product guides.
+
+## Application Categories
+- Games: Unlocked mobile titles, executors, and game enhancements.
+- Apps: Console emulators, custom launchers, mod managers, and utility suites.
