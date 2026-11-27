@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="bgFf" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#381308"/>
+      <stop offset="100%" stop-color="#140602"/>
+    </linearGradient>
+    <linearGradient id="flameGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffcc00"/>
+      <stop offset="40%" stop-color="#ff6600"/>
+      <stop offset="100%" stop-color="#cc0000"/>
+    </linearGradient>
+    <linearGradient id="goldWing" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffe066"/>
+      <stop offset="100%" stop-color="#ff9900"/>
+    </linearGradient>
+    <filter id="ffGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#ff6600" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  <rect width="200" height="200" rx="42" fill="url(#bgFf)"/>
+  <rect x="2" y="2" width="196" height="196" rx="40" fill="none" stroke="rgba(255,102,0,0.3)" stroke-width="2"/>
+  
+  <!-- Free Fire Flaming Winged Crest -->
+  <g filter="url(#ffGlow)" transform="translate(100, 102)">
+    <!-- Central Flame Dagger -->
+    <path d="M 0,-65 C 15,-35 25,-15 18,15 C 12,38 0,55 0,55 C 0,55 -12,38 -18,15 C -25,-15 -15,-35 0,-65 Z" fill="url(#flameGrad)"/>
+    <path d="M 0,-40 C 8,-20 14,-5 10,12 C 6,26 0,38 0,38 C 0,38 -6,26 -10,12 C -14,-5 -8,-20 0,-40 Z" fill="#ffffff" opacity="0.85"/>
+    
+    <!-- Left Wing Feathers -->
+    <path d="M -15,10 C -38,5 -65,-12 -72,-38 C -68,-18 -52,5 -32,25 C -48,22 -62,15 -66,5 C -62,18 -48,35 -24,42 C -36,44 -46,42 -52,36 C -46,48 -32,56 -10,54 Z" fill="url(#goldWing)"/>
+    
+    <!-- Right Wing Feathers -->
+    <path d="M 15,10 C 38,5 65,-12 72,-38 C 68,-18 52,5 32,25 C 48,22 62,15 66,5 C 62,18 48,35 24,42 C 36,44 46,42 52,36 C 46,48 32,56 10,54 Z" fill="url(#goldWing)"/>
+  </g>
+</svg>

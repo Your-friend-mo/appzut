@@ -472,5 +472,204 @@ window.APPZUT_CATALOG = [
       "township hack",
       "township farm"
     ]
+  },
+  {
+    "slug": "roblox-mod-menu",
+    "title": "Roblox Mod Menu",
+    "category": "Games",
+    "badge": "Mod",
+    "version": "2.650",
+    "rating": "4.9 \u2605",
+    "size": "iOS + Android",
+    "icon": "/assets/img/roblox.svg",
+    "cover": "/assets/img/roblox.svg",
+    "short_desc": "Download Roblox Mod Menu with fly mode, speed boost, noclip, and God mode for iOS and Android.",
+    "keywords": [
+      "roblox mod menu",
+      "roblox",
+      "mod menu",
+      "roblox mod",
+      "roblox hack",
+      "fly hack",
+      "speed hack",
+      "god mode",
+      "blox",
+      "roblox scripts",
+      "gaming",
+      "sandbox"
+    ],
+    "aliases": [
+      "roblx",
+      "roblox menu",
+      "roblox modmenu",
+      "rblx",
+      "roblox apk",
+      "roblox mod apk",
+      "roblox ios"
+    ]
+  },
+  {
+    "slug": "brawl-stars-hack",
+    "title": "Brawl Stars Hack",
+    "category": "Games",
+    "badge": "Mod",
+    "version": "58.279",
+    "rating": "4.9 \u2605",
+    "size": "iOS + Android",
+    "icon": "/assets/img/brawl-stars.svg",
+    "cover": "/assets/img/brawl-stars.svg",
+    "short_desc": "Download Brawl Stars Hack with unlimited gems, all brawlers unlocked, and private server access for iOS and Android.",
+    "keywords": [
+      "brawl stars hack",
+      "brawl stars",
+      "brawl",
+      "supercell",
+      "gems",
+      "unlimited gems",
+      "brawlers unlocked",
+      "nulls brawl",
+      "private server",
+      "hypercharge",
+      "action"
+    ],
+    "aliases": [
+      "brawlstars",
+      "brawl star",
+      "browl stars",
+      "brawl stars mod",
+      "brawl stars apk",
+      "brawl hack"
+    ]
+  },
+  {
+    "slug": "clash-of-clans-mod",
+    "title": "Clash of Clans Mod",
+    "category": "Games",
+    "badge": "Mod",
+    "version": "16.500",
+    "rating": "4.8 \u2605",
+    "size": "iOS + Android",
+    "icon": "/assets/img/clash-of-clans.svg",
+    "cover": "/assets/img/clash-of-clans.svg",
+    "short_desc": "Download Clash of Clans Mod with unlimited gems, gold, elixir, and max Town Hall 16 on iOS and Android.",
+    "keywords": [
+      "clash of clans mod",
+      "clash of clans",
+      "coc",
+      "supercell",
+      "unlimited gems",
+      "unlimited gold",
+      "town hall 16",
+      "th16",
+      "nulls clash",
+      "strategy",
+      "base builder"
+    ],
+    "aliases": [
+      "clash of clan",
+      "clash clans",
+      "coc mod",
+      "clash mod",
+      "coc hack",
+      "clash of clans hack"
+    ]
+  },
+  {
+    "slug": "minecraft-pocket-edition-mod",
+    "title": "Minecraft Pocket Edition Mod",
+    "category": "Games",
+    "badge": "Mod",
+    "version": "1.21.30",
+    "rating": "4.9 \u2605",
+    "size": "iOS + Android",
+    "icon": "/assets/img/minecraft.svg",
+    "cover": "/assets/img/minecraft.svg",
+    "short_desc": "Download Minecraft Pocket Edition Mod with God mode, unlocked premium skins, shaders, and high FPS for iOS and Android.",
+    "keywords": [
+      "minecraft pocket edition mod",
+      "minecraft pocket edition",
+      "minecraft pe",
+      "mcpe",
+      "minecraft mod",
+      "god mode",
+      "immortal",
+      "mojang",
+      "textures",
+      "shaders",
+      "crafting"
+    ],
+    "aliases": [
+      "minecraft pe mod",
+      "mcpe mod",
+      "minecraf",
+      "minecraft pe hack",
+      "minecraft apk",
+      "minecraft pocket edition hack"
+    ]
+  },
+  {
+    "slug": "free-fire-mod-menu",
+    "title": "Free Fire Mod Menu",
+    "category": "Games",
+    "badge": "Mod",
+    "version": "1.106.1",
+    "rating": "4.9 \u2605",
+    "size": "iOS + Android",
+    "icon": "/assets/img/free-fire.svg",
+    "cover": "/assets/img/free-fire.svg",
+    "short_desc": "Download Free Fire Mod Menu featuring auto-aim, wallhack, antenna assist, and speed movement for iOS and Android.",
+    "keywords": [
+      "free fire mod menu",
+      "free fire",
+      "garena",
+      "auto aim",
+      "headshot",
+      "wallhack",
+      "diamonds",
+      "antenna",
+      "battle royale",
+      "fps",
+      "shooting"
+    ],
+    "aliases": [
+      "freefire",
+      "free fire mod",
+      "ff mod menu",
+      "ff mod",
+      "free fire hack",
+      "free fire max"
+    ]
+  },
+  {
+    "slug": "stumble-guys-mod",
+    "title": "Stumble Guys Mod",
+    "category": "Games",
+    "badge": "Mod",
+    "version": "0.78.0",
+    "rating": "4.8 \u2605",
+    "size": "iOS + Android",
+    "icon": "/assets/img/stumble-guys.svg",
+    "cover": "/assets/img/stumble-guys.svg",
+    "short_desc": "Download Stumble Guys Mod with all legendary skins unlocked, unlimited gems, punch emote, and tokens for iOS and Android.",
+    "keywords": [
+      "stumble guys mod",
+      "stumble guys",
+      "stumble",
+      "scopely",
+      "unlocked skins",
+      "gems",
+      "punch emote",
+      "battle royale",
+      "knockout",
+      "runner",
+      "party game"
+    ],
+    "aliases": [
+      "stumbleguys",
+      "stumble guy",
+      "stumble mod",
+      "stumble guys hack",
+      "stumble guys apk"
+    ]
   }
 ];

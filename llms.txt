@@ -1,14 +1,30 @@
-# AppZut
+# AppZut - Curated Mobile Library & Mods
+> Verified mobile modifications, emulators, and utility packages for iOS and Android.
 
-> AppZut is a premier cross-platform mobile application library and guide portal providing verified mods, emulator packages, utilities, and tweaked releases for iOS and Android devices.
+## Core Hub Pages
+- [AppZut Home](https://appzut.com/): Official curated index of tested mobile applications and game modifications.
+- [AppZut.com Portal](https://appzut.com/appzut-dot-com.html): High-availability portal for verified community builds.
+- [AppZut Com Repository](https://appzut.com/appzut-com.html): Direct application catalog and installation guides.
+- [AppZut Space Mirror](https://appzut.com/appzut-dot-space.html): High-speed mirror network for mobile installations.
 
-## Core Navigation & Discovery
-- [AppZut Home](https://appzut.comee.online/): Official mobile library, search engine, and app directory.
-- [AppZut.com](https://appzut.comee.online/appzut-dot-com.html): Curated verified applications catalog.
-- [AppZut Com](https://appzut.comee.online/appzut-com.html): High-performance mobile tools and games repository.
-- [AppZut. com](https://appzut.comee.online/appzut-dot-space.html): Independent mobile software index.
-- [Full XML Sitemap](https://appzut.comee.online/sitemap.xml): Complete URL index of all pages and product guides.
-
-## Application Categories
-- Games: Unlocked mobile titles, executors, and game enhancements.
-- Apps: Console emulators, custom launchers, mod managers, and utility suites.
+## Popular Game Modifications & Emulators
+- [AetherSX2](https://appzut.com/app/aethersx2.html): Install AetherSX2 PS2 Emulator for iOS and Android with our Guide and Play your favorite PS2 Games!
+- [BASEBALL 9 Hack](https://appzut.com/app/baseball-9-hack.html): Install Baseball 9 MOD with our Guide — Unlimited Gems, Coins and More! BASEBALL 9 is the thrilling fast-paced baseball sim from playus soft, with 10M+ downloads, 4.6★ Google Play (462K reviews), a...
+- [BitLife - Life Simulator Hack](https://appzut.com/app/bitlife-life-simulator-hack.html): Install Bitlife MOD with our Guide — Everything Unlocked! Unlock all features and enjoy the full game experience with our easy step-by-step instructions. BitLife - Life Simulator is the ultimate te...
+- [Delta Executor](https://appzut.com/app/delta-executor.html): Install Delta Executor for iOS and Android and run Scripts Smoothly. No Jailbreak, No Root Required.
+- [Geode](https://appzut.com/app/geode.html): Install Geode with our Guide on iOS and Android without Jailbreak or Root! Custom Icons, FPS Boost, Extra Features, Thousands of Community Mods Geometry Dash is the ultimate rhythm-based action pla...
+- [HappyMod](https://appzut.com/app/happymod.html): Install Modded Apps with our Guide - No Jailbreak, No Root required. HappyMod is the leading community-driven modded APK platform for Android and iOS, offering thousands of modified games and apps...
+- [MelonX](https://appzut.com/app/melonx.html): Install MelonX Switch Emulator for iOS with our Guide and Play your favorite Switch Games!
+- [PojavLauncher](https://appzut.com/app/pojavlauncher.html): Install PojavLauncher with our Guide on iOS and Android without Jailbreak, Root. Play Minecraft Java Edition on iPhone, iPAD, Android.
+- [Pokemon Go Spoofer](https://appzut.com/app/pokemon-go-spoofer.html): Install Pokemon GO Spoofer with our Guide — Teleport, Joystick, Auto Walk and More! Unlock powerful features instantly and play smarter on iOS and Android. Pokémon GO is a groundbreaking augmented...
+- [SimCity BuildIt Hack](https://appzut.com/app/simcity-buildit-hack.html): Install SimCity BuildIt Hack for iOS and Android and Get Unlimited SimCash, Simoleons, All Unlocked and MORE! No Jailbreak, No Root Required. Android version of this mod is free, iOS version requir...
+- [Subway Surfers Hack](https://appzut.com/app/subway-surfers-hack.html): Install Subway Surfers Hack for iOS and Android and Get Unlimited Keys and Coins. No Jailbreak, No Root Required.
+- [The Sims FreePlay Mod](https://appzut.com/app/the-sims-freeplay-mod.html): Install The Sims FreePlay Mod and Get Unlimited Simoleons, LP, Money and MORE! No Jailbreak, No Root Required. Android version of this mod is free, iOS version requires VIP access on external websi...
+- [Toca Boca World Hack](https://appzut.com/app/toca-boca-world-hack.html): Install Toca Boca World MOD with our Guide - Everything Purchased iOS and Android. No Jailbreak, No Root Required. Toca Boca World (formerly Toca Life World) is the ultimate kids&#039; digital dollhouse...
+- [Township Hack](https://appzut.com/app/township-hack.html): Install Township Hack for iOS and Android and Get Unlimited Cash, Coins, Everything Unlocked and MORE! No Jailbreak, No Root Required.
+- [Roblox Mod Menu](https://appzut.com/app/roblox-mod-menu.html): Download Roblox Mod Menu with fly mode, speed boost, noclip, and God mode for iOS and Android.
+- [Brawl Stars Hack](https://appzut.com/app/brawl-stars-hack.html): Download Brawl Stars Hack with unlimited gems, all brawlers unlocked, and private server access for iOS and Android.
+- [Clash of Clans Mod](https://appzut.com/app/clash-of-clans-mod.html): Download Clash of Clans Mod with unlimited gems, gold, elixir, and max Town Hall 16 on iOS and Android.
+- [Minecraft Pocket Edition Mod](https://appzut.com/app/minecraft-pocket-edition-mod.html): Download Minecraft Pocket Edition Mod with God mode, unlocked premium skins, shaders, and high FPS for iOS and Android.
+- [Free Fire Mod Menu](https://appzut.com/app/free-fire-mod-menu.html): Download Free Fire Mod Menu featuring auto-aim, wallhack, antenna assist, and speed movement for iOS and Android.
+- [Stumble Guys Mod](https://appzut.com/app/stumble-guys-mod.html): Download Stumble Guys Mod with all legendary skins unlocked, unlimited gems, punch emote, and tokens for iOS and Android.
